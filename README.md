@@ -30,7 +30,7 @@
   
   
   Com grande ajuda do professor <a href="https://github.com/gustavoguanabara">**/gustavoguanabara**</a><br>
-  Conta de trabalhos e exercícios do curso de CC na FMU: <a href="https://github.com/vinisantanafmu" target="blank">**/vinisantanafmu**</a>
+  MINHA CONTA PRINCIPAL: <a href="https://github.com/vinisantanadev" target="blank">**/vinisantanafmu**</a>
   
   ---
  
